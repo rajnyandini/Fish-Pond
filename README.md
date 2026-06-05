@@ -30,4 +30,4 @@ The **Interactive Fish Pond Ecosystem** is an interactive web-based simulation w
 
 ## ⚙️ Setup  
 
-Try it here: **[Fish-Pond](https://rajnandiniini.github.io/Fish-Pond/)**  
+Try it here: **[Fish-Pond](https://rajnyandini.github.io/Fish-Pond/)**  
